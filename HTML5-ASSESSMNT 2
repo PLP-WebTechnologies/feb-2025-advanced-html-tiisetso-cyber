@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HTML5 Example</title>
+  <style>
+    /* Add some basic styling to make the page look better */
+    body {
+      font-family: Arial, sans-serif;
+    }
+    table {
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <!-- Ordered list with roman numerals -->
+  <h2>Ordered List with Roman Numerals</h2>
+  <ol type="I">
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+  </ol>
+
+  <!-- External image from pexels.com -->
+  <h2>External Image from Pexels.com</h2>
+
+ 
+<img src="https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg" alt="External Image" width="400" height="300">
+
+  <!-- Table of 5 contacts -->
+  <h2>Table of 5 Contacts</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Address</th>
+        <th>Mobile</th>
+        <th>Email</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>John Doe</td>
+        <td>123 Main St, Anytown, USA 12345</td>
+        <td>555-555-5555</td>
+        <td>johndoe@example.com</td>
+      </tr>
+      <tr>
+        <td>Jane Doe</td>
+        <td>456 Elm St, Othertown, USA 67890</td>
+        <td>555-123-4567</td>
+        <td>janedoe@example.com</td>
+      </tr>
+      <tr>
+        <td>Bob Smith</td>
+        <td>789 Oak St, Smalltown, USA 34567</td>
+        <td>555-901-2345</td>
+<td>bobsmith@example.com</td>
+      </tr>
+      <tr>
+        <td>Alice Johnson</td>
+        <td>321 Maple St, Largetown, USA 90123</td>
+        <td>555-111-2222</td>
+        <td>alicejohnson@example.com</td>
+      </tr>
+      <tr>
+        <td>Mike Brown</td>
+        <td>901 Pine St, Mediumtown, USA 45678</td>
+        <td>555-333-4444</td>
+        <td>mikebrown@example.com</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- Registration form -->
+  <h2>Registration Form</h2>
+  <form>
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required placeholder="Enter your name"><br><br>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required placeholder="Enter your email"><br><br>
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" required placeholder="Enter your password"><br><br>
+    <label for="date">Date:</label>
+    <input type="date" id="date" name="date" required><br><br>
+<td>bobsmith@example.com</td>
+      </tr>
+      <tr>
+        <td>Alice Johnson</td>
+        <td>321 Maple St, Largetown, USA 90123</td>
+        <td>555-111-2222</td>
+        <td>alicejohnson@example.com</td>
+      </tr>
+      <tr>
+        <td>Mike Brown</td>
+        <td>901 Pine St, Mediumtown, USA 45678</td>
+        <td>555-333-4444</td>
+        <td>mikebrown@example.com</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- Registration form -->
+  <h2>Registration Form</h2>
+  <form>
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required placeholder="Enter your name"><br><br>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required placeholder="Enter your email"><br><br>
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" required placeholder="Enter your password"><br><br>
+    <label for="date">Date:</label>
+    <input type="date" id="date" name="date" required><br><br>
+<td>bobsmith@example.com</td>
+      </tr>
+      <tr>
+        <td>Alice Johnson</td>
+        <td>321 Maple St, Largetown, USA 90123</td>
+        <td>555-111-2222</td>
+        <td>alicejohnson@example.com</td>
+      </tr>
+      <tr>
+        <td>Mike Brown</td>
+        <td>901 Pine St, Mediumtown, USA 45678</td>
+        <td>555-333-4444</td>
+        <td>mikebrown@example.com</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- Registration form -->
+  <h2>Registration Form</h2>
+  <form>
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required placeholder="Enter your name"><br><br>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required placeholder="Enter your email"><br><br>
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" required placeholder="Enter your password"><br><br>
+    <label for="date">Date:</label>
+    <input type="date" id="date" name="date" required><br><br>
+<label for="color">Favorite Color:</label>
+    <select id="color" name="color">
+      <option value="red">Red</option>
+      <option value="green">Green</option>
+      <option value="blue">Blue</option>
+    </select><br><br>
+    <label for="gender">Gender:</label>
+    <input type="radio" id="male" name="gender" value="male">
+    <label for="male">Male</label>
+    <input type="radio" id="female" name="gender" value="female">
+    <label for="female">Female</label><br><br>
+    <label for="hobbies">Hobbies:</label>
+    <input type="checkbox" id="reading" name="hobbies" value="reading">
+    <label for="reading">Reading</label>
+    <input type="checkbox" id="writing" name="hobbies"
+
+
+Happy Coding! 💻✨
